@@ -1,0 +1,8 @@
+com/kll/springcloud/entities/Msg.class
+com/kll/springcloud/entities/CommonResult.class
+com/kll/springcloud/entities/UserLogin.class
+com/kll/springcloud/entities/Role.class
+com/kll/springcloud/entities/Permission.class
+com/kll/springcloud/entities/Article.class
+com/kll/springcloud/entities/ArticleDetail.class
+com/kll/springcloud/entities/User.class

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloudalibaba-sentinel-dashboard" />
+        <module name="cloud-api-commons" />
+        <module name="cloudalibaba-msgService-consumer8101" />
+        <module name="cloudalibaba-msgService-provider9101" />
+        <module name="cloudalibaba-userService-consumer8001" />
+        <module name="cloudalibaba-userService-provider9001" />
+        <module name="cloudalibaba-gateWay" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloudalibaba-config-nacos-client3377" target="1.8" />
+      <module name="cloudalibaba-nacosConfig" target="1.8" />
+      <module name="cloudalibaba-nacosConfig-client3377" target="1.8" />
+      <module name="cloudalibaba-provider-login9001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-api-commons" options="-parameters" />
+      <module name="cloudalibaba-config-nacos-client3377" options="-parameters" />
+      <module name="cloudalibaba-gateWay" options="-parameters" />
+      <module name="cloudalibaba-msgService" options="-parameters" />
+      <module name="cloudalibaba-msgService-consumer8101" options="-parameters" />
+      <module name="cloudalibaba-msgService-provider9101" options="-parameters" />
+      <module name="cloudalibaba-nacosConfig" options="-parameters" />
+      <module name="cloudalibaba-nacosConfig-client3377" options="-parameters" />
+      <module name="cloudalibaba-provider-login9001" options="-parameters" />
+      <module name="cloudalibaba-sentinel" options="-parameters" />
+      <module name="cloudalibaba-sentinel-dashboard" options="-parameters" />
+      <module name="cloudalibaba-userService" options="-parameters" />
+      <module name="cloudalibaba-userService-consumer8001" options="-parameters" />
+      <module name="cloudalibaba-userService-provider9001" options="-parameters" />
+    </option>
+  </component>
+</project>

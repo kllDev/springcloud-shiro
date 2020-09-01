@@ -1,0 +1,70 @@
+server:
+  port: 9101
+
+spring:
+  application:
+    name: msgService-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+  redis:
+    timeout: 5000
+    # redis-single
+    host: localhost
+    port: 6379
+  elasticsearch:
+      #es配置
+      rest:
+        #最新配置方式使用restful风格，端口从9300 -> 9200
+        uris: 127.0.0.1:9200
+        username: elastic
+        password: changeme
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    druid:
+      url: jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+      username: root
+      password: 1123581321
+      initial-size: 10
+      max-active: 100
+      min-idle: 10
+      max-wait: 60000
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      #validation-query: SELECT 1 FROM DUAL
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        login-username: admin
+        login-password: admin
+      filter:
+        stat:
+          log-slow-sql: true
+          slow-sql-millis: 1000
+          merge-sql: false
+        wall:
+          config:
+            multi-statement-allow: true
+
+
+
+
+
+
+
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+

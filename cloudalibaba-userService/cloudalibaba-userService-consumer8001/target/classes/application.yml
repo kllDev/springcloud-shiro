@@ -1,0 +1,20 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: userService-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    sentinel:
+      transport:
+        #配置Sentin dashboard地址
+        dashboard: localhost:8080
+        # 默认8719端口，假如被占用了会自动从8719端口+1进行扫描，直到找到未被占用的 端口
+#        port: 8719
+
+#消费者将要去访问的微服务名称（注册成功进nacos的微服务提供者）
+service-url:
+  nacos-user-service: http://userService-provider
