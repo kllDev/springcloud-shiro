@@ -14,6 +14,7 @@
         <module>cloudalibaba-msgService</module>
         <module>cloudalibaba-gateWay</module>
         <module>cloudalibaba-sentinel</module>
+        <module>test</module>
     </modules>
 
     <!--定义SpringBoot依赖父工程-->

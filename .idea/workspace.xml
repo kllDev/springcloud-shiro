@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e38727a-1deb-48dd-85e7-ed896fc8c640" name="Default Changelist" comment="" />
+    <list default="true" id="2e38727a-1deb-48dd-85e7-ed896fc8c640" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +36,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -35,6 +59,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gg1JArj6zKcNViiYwXkTLkAEku" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -205,12 +230,23 @@
       <workItem from="1598713191822" duration="2503000" />
       <workItem from="1598778916991" duration="3228000" />
       <workItem from="1598784195217" duration="3226000" />
-      <workItem from="1598868768282" duration="6679000" />
+      <workItem from="1598868768282" duration="7330000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="593" y="118" key="#Project_Structure" timestamp="1598592707785">
@@ -317,11 +353,12 @@
       <screen x="0" y="23" width="2560" height="1373" />
     </state>
     <state x="836" y="254" key="SettingsEditor/0.23.2560.1373@0.23.2560.1373" timestamp="1598523229108" />
-    <state x="416" y="172" key="new project wizard" timestamp="1598629135860">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="634" y="248" key="new project wizard" timestamp="1598929234545">
+      <screen x="0" y="23" width="2560" height="1371" />
     </state>
     <state x="416" y="172" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1598629135860" />
     <state x="416" y="184" key="new project wizard/0.23.1680.983@0.23.1680.983" timestamp="1598592731279" />
+    <state x="634" y="248" key="new project wizard/0.23.2560.1371@0.23.2560.1371" timestamp="1598929234545" />
     <state x="925" y="248" key="new project wizard/0.23.2560.1373@0.23.2560.1373" timestamp="1598522233058" />
     <state x="1281" y="810" width="670" height="676" key="search.everywhere.popup" timestamp="1598872088870">
       <screen x="0" y="23" width="2560" height="1371" />
