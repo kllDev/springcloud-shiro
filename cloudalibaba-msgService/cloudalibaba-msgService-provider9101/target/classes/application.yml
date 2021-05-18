@@ -54,14 +54,6 @@ spring:
           config:
             multi-statement-allow: true
 
-
-
-
-
-
-
-
-
 management:
   endpoints:
     web:

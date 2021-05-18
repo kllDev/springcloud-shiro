@@ -1,0 +1,22 @@
+server:
+  port: 6001
+
+spring:
+  application:
+    name: product-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    #配置rabbitMq 服务器
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: admin
+    password: admin
+    #虚拟host 可以不设置,使用server默认host
+    #virtual-host: JCcccHost
+
+#消费者将要去访问的微服务名称（注册成功进nacos的微服务提供者）
+service-url:
+  product-duration: http://product-duration

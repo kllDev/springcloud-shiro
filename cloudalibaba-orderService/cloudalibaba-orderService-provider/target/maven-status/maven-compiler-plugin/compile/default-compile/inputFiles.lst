@@ -1,0 +1,12 @@
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/mapper/OrderMapper.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/service/OrderService.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/config/RedissonConfig.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/mapper/OrderDetailMapper.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/config/RedisConfig.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/service/impl/RedisService.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/config/RedisExpireConfig.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/service/impl/OrderServiceImpl.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/mapper/ProductAttrMapper.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/OrderDuration5101.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/controller/OrderController.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-orderService/cloudalibaba-orderService-provider/src/main/java/com/kll/springcloud/service/RedisService.java

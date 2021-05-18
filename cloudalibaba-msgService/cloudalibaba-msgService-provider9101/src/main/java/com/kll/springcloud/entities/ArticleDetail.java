@@ -11,7 +11,7 @@ import org.springframework.data.elasticsearch.annotations.FieldType;
 import java.io.Serializable;
 
 @Data
-@AllArgsConstructor
+    @AllArgsConstructor
 @NoArgsConstructor
 @Document(indexName = "articlees", type = "ArticleDetail")
 public class ArticleDetail implements Serializable {

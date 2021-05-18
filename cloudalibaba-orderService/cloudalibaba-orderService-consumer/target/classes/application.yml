@@ -1,0 +1,35 @@
+server:
+  port: 5001
+
+redisson:
+  address: localhost:6379
+spring:
+  application:
+    name: order-service
+  redis:
+    timeout: 5000
+    # redis-single
+    host: localhost
+    port: 6379
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    #配置rabbitMq 服务器
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+    listener:
+      simple:
+        acknowledge-mode: manual
+    #虚拟host 可以不设置,使用server默认host
+    #virtual-host: JCcccHost
+
+#消费者将要去访问的微服务名称（注册成功进nacos的微服务提供者）
+service-url:
+  order-duration: http://order-duration
+  rabbitMQ-msg-sender: http://rabbitMQ-msg-sender
+
+

@@ -1,0 +1,11 @@
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/mapper/ProductMapper.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/service/impl/RedisService.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/service/impl/ProductServiceImpl.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/mapper/ProductImgMapper.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/service/ProductService.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/config/RedisExpireConfig.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/config/RedisConfig.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/mapper/ProductAttrMapper.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/mapper/ProductDescribeMapper.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/controller/ProductController.java
+/Users/mac/OldProject/springcloud-shiro/cloudalibaba-productService/cloudalibaba-productService-provider/src/main/java/com/kll/springcloud/ProductsDuration6101.java

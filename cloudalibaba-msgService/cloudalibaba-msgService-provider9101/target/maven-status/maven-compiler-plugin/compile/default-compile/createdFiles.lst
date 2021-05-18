@@ -1,0 +1,12 @@
+com/kll/springcloud/service/MsgService.class
+com/kll/springcloud/service/impl/EsServiceImpl.class
+com/kll/springcloud/VO/ArticleDetailVO.class
+com/kll/springcloud/elasticsearch/EsDAO.class
+com/kll/springcloud/entities/ArticleDetail.class
+com/kll/springcloud/controller/MsgController.class
+com/kll/springcloud/elasticsearch/EsPage.class
+com/kll/springcloud/elasticsearch/MyEsRepository.class
+com/kll/springcloud/elasticsearch/MsgPOJO.class
+com/kll/springcloud/mapper/MsgMapper.class
+com/kll/springcloud/service/impl/MsgServiceImpl.class
+com/kll/springcloud/service/EsService.class

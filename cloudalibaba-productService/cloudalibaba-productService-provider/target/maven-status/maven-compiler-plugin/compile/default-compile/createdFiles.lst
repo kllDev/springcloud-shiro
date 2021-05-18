@@ -1,0 +1,11 @@
+com/kll/springcloud/config/RedisConfig.class
+com/kll/springcloud/mapper/ProductAttrMapper.class
+com/kll/springcloud/mapper/ProductMapper.class
+com/kll/springcloud/controller/ProductController.class
+com/kll/springcloud/ProductsDuration6101.class
+com/kll/springcloud/service/impl/ProductServiceImpl.class
+com/kll/springcloud/service/ProductService.class
+com/kll/springcloud/mapper/ProductDescribeMapper.class
+com/kll/springcloud/mapper/ProductImgMapper.class
+com/kll/springcloud/config/RedisExpireConfig.class
+com/kll/springcloud/service/impl/RedisService.class

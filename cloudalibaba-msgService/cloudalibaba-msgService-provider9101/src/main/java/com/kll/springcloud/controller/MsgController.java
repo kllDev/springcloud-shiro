@@ -84,7 +84,6 @@ public class MsgController {
                     articleDetails) {
                 articles.add(new Article(a.getId(), a.getArticleId(), a.getArticleTitle(), a.getAuthor(), a.getSummary(), a.getCreateTime(), a.getCategories()));
             }
-
             Integer count = articleDetails.size();
             String json = "";
             if (limitInt < articleDetails.size()) {
@@ -291,6 +290,7 @@ public class MsgController {
         articleDetail.setArticleId(UUID.randomUUID().toString());
         articleDetail.setVisits(String.valueOf(0));
         articleDetail.setCreateTime((new Date()).toString());
+        System.out.println(articleDetail.toString());
         Integer id=msgService.publishArticle(articleDetail);
         articleDetail.setId(id);
         esService.save(articleDetail);

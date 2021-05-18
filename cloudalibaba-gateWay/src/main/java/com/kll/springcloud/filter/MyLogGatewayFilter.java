@@ -81,22 +81,4 @@ public class MyLogGatewayFilter implements GlobalFilter, Ordered {
     public int getOrder() {
         return 0;
     }
-
-    public static void main(String[] args) throws Exception {
-        //创建文件的输入流
-        File file = new File("/Users/mac/Desktop/123.txt");
-        FileInputStream fileInputstream = new FileInputStream(file);
-        //通过filelnputstream获取对应的Filechannel->实际类型FilechannelImpl
-        FileChannel filechannel = fileInputstream.getChannel();
-        //创建缓冲区
-        ByteBuffer byteBuffer = ByteBuffer.allocate((int) file.length());
-        //将通道的数据读入到Buffer
-        filechannel.read(byteBuffer);
-        byteBuffer.flip();
-        //将byteBuffer的宇节数据转成string
-        System.out.println(new String(byteBuffer.toString()));
-        fileInputstream.close();
-
-        String Gangway = "123";
-    }
 }

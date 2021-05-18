@@ -12,16 +12,10 @@
     <artifactId>cloudalibaba-userService</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>cloudalibaba-userService-provider9001</module>
+        <module>cloudalibaba-userService-provider8101</module>
         <module>cloudalibaba-userService-consumer8001</module>
     </modules>
-    <dependencies>
-        <dependency>
-            <artifactId>cloud-api-commons</artifactId>
-            <groupId>com.kll.springcloud</groupId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+
 
 
 </project>

@@ -8,5 +8,4 @@ import java.util.List;
 public interface EsDAO extends CrudRepository<ArticleDetail, Long> {
     List<ArticleDetail> findArticleDetailBySummary(String summary);
     List<ArticleDetail> findArticleDetailByContent(String content);
-
 }

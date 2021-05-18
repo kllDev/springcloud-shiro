@@ -15,6 +15,7 @@ public class EsPage {
      * 当前页
      */
     private int currentPage;
+
     /**
      * 每页显示多少条
      */
@@ -24,6 +25,7 @@ public class EsPage {
      * 总记录数
      */
     private int recordCount;
+
     /**
      * 本页的数据列表
      */
@@ -33,10 +35,12 @@ public class EsPage {
      * 总页数
      */
     private int pageCount;
+
     /**
      * 页码列表的开始索引（包含）
      */
     private int beginPageIndex;
+
     /**
      * 页码列表的结束索引（包含）
      */
