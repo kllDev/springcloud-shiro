@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e38727a-1deb-48dd-85e7-ed896fc8c640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel/cloudalibaba-sentinel-dashboard/src/main/java/com/kll/springcloud/SentinelDashboard8401.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel/cloudalibaba-sentinel-dashboard/src/main/java/com/kll/springcloud/SentinelDashboard8401.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e38727a-1deb-48dd-85e7-ed896fc8c640" name="Default Changelist" comment="(feat)初始化本地配置" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
@@ -270,10 +265,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.GateWayMain9527" />
         <item itemvalue="Spring Boot.MsgService_Provider9101" />
-        <item itemvalue="Spring Boot.UserService_Consumer8001" />
         <item itemvalue="Spring Boot.MsgService_Consumer8101" />
+        <item itemvalue="Spring Boot.GateWayMain9527" />
+        <item itemvalue="Spring Boot.UserService_Consumer8001" />
         <item itemvalue="JUnit.test.createIndex" />
       </list>
     </recent_temporary>
@@ -300,8 +295,23 @@
       <workItem from="1598784195217" duration="3226000" />
       <workItem from="1598868768282" duration="6679000" />
       <workItem from="1654654074578" duration="213000" />
-      <workItem from="1654654334716" duration="150000" />
+      <workItem from="1654654334716" duration="503000" />
     </task>
+    <task id="LOCAL-00001" summary="(feat)初始化本地配置">
+      <created>1654654547770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654654547770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="(feat)初始化本地配置">
+      <created>1654654656008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654654656008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +328,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(feat)初始化本地配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="(feat)初始化本地配置" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
