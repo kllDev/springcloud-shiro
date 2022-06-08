@@ -12,5 +12,4 @@ public class SentinelDashboard8401 {
         SpringApplication springApplication = new SpringApplication(SentinelDashboard8401.class);
         springApplication.run(args);
     }
-
 }

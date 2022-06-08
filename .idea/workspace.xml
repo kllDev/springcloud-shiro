@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e38727a-1deb-48dd-85e7-ed896fc8c640" name="Default Changelist" comment="" />
+    <list default="true" id="2e38727a-1deb-48dd-85e7-ed896fc8c640" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel/cloudalibaba-sentinel-dashboard/src/main/java/com/kll/springcloud/SentinelDashboard8401.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel/cloudalibaba-sentinel-dashboard/src/main/java/com/kll/springcloud/SentinelDashboard8401.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,12 +29,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/DevLib/maven/maven-jar" />
-        <option name="mavenHome" value="$USER_HOME$/DevLib/maven/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="$USER_HOME$/DevLib/maven/apache-maven-3.6.3/conf/settings.xml" />
+        <option name="localRepository" value="$USER_HOME$/dev_tool/maven/maven-jar" />
+        <option name="mavenHome" value="$USER_HOME$/dev_tool/maven/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/dev_tool/maven/apache-maven-3.8.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -35,6 +63,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gg1JArj6zKcNViiYwXkTLkAEku" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -49,14 +78,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cloudalibaba-msgService/cloudalibaba-msgService-provider9101/src/main/java/com/kll/springcloud/entities" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5120828" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -75,6 +104,13 @@
       <recent name="$PROJECT_DIR$/cloudalibaba-msgService/cloudalibaba-msgService-consumer8101/src/main/resources" />
       <recent name="$PROJECT_DIR$/cloudalibaba-msgService/cloudalibaba-msgService-consumer8101/src/main/java" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
   <component name="RunManager" selected="Spring Boot.GateWayMain9527">
     <configuration name="test.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -128,9 +164,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderDuration5101" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-orderService-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kll.springcloud.OrderDuration5101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderService5001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-orderService-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kll.springcloud.OrderService5001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsDuration6101" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-productService-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kll.springcloud.ProductsDuration6101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsService6001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-productService-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kll.springcloud.ProductsService6001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMQMsgSender4101" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-mqService-provider4101" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kll.springcloud.RabbitMQMsgSender4101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SentinelDashboard8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloudalibaba-sentinel-dashboard" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kll.springcloud.SentinelDashboard8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDuration8101" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-userService-provider8101" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kll.springcloud.UserDuration8101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserService8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-userService-consumer8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kll.springcloud.UserService8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,6 +256,13 @@
       <item itemvalue="Spring Boot.UserService_Provider9001" />
       <item itemvalue="Spring Boot.UserService_Provider9002" />
       <item itemvalue="Spring Boot.SentinelDashboard8401" />
+      <item itemvalue="Spring Boot.RabbitMQMsgSender4101" />
+      <item itemvalue="Spring Boot.ProductsDuration6101" />
+      <item itemvalue="Spring Boot.UserService8001" />
+      <item itemvalue="Spring Boot.OrderService5001" />
+      <item itemvalue="Spring Boot.UserDuration8101" />
+      <item itemvalue="Spring Boot.OrderDuration5101" />
+      <item itemvalue="Spring Boot.ProductsService6001" />
       <item itemvalue="Spring Boot.UserService_Consumer8001" />
       <item itemvalue="Spring Boot.GateWayMain9527" />
       <item itemvalue="Spring Boot.MsgService_Consumer8101" />
@@ -186,6 +278,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -206,127 +299,28 @@
       <workItem from="1598778916991" duration="3228000" />
       <workItem from="1598784195217" duration="3226000" />
       <workItem from="1598868768282" duration="6679000" />
+      <workItem from="1654654074578" duration="213000" />
+      <workItem from="1654654334716" duration="150000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="593" y="118" key="#Project_Structure" timestamp="1598592707785">
-      <screen x="0" y="23" width="1680" height="983" />
-    </state>
-    <state x="593" y="118" key="#Project_Structure/0.23.1680.983@0.23.1680.983" timestamp="1598592707785" />
-    <state x="904" y="156" key="#Project_Structure/0.23.2560.1373@0.23.2560.1373" timestamp="1598544119010" />
-    <state x="384" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598698526405">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="384" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598698526405" />
-    <state x="384" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.983@0.23.1680.983" timestamp="1598595805417" />
-    <state x="1220" y="266" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1598525570846">
-      <screen x="0" y="23" width="2560" height="1373" />
-    </state>
-    <state x="1220" y="266" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1598525570846" />
-    <state x="1093" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1598670540285">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="1093" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1598670540285" />
-    <state x="1666" y="296" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1373@0.23.2560.1373" timestamp="1598542041015" />
-    <state x="451" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598602611066">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="451" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598602611066" />
-    <state x="1509" y="516" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1598539514712" />
-    <state width="1638" height="162" key="GridCell.Tab.0.bottom" timestamp="1598782903495">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state width="1638" height="135" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598701188055" />
-    <state width="1638" height="342" key="GridCell.Tab.0.bottom/0.23.1680.983@0.23.1680.983" timestamp="1598698536983" />
-    <state width="1638" height="162" key="GridCell.Tab.0.bottom/0.23.2560.1371@0.23.2560.1371" timestamp="1598782903495" />
-    <state width="1638" height="65" key="GridCell.Tab.0.bottom/0.23.2560.1373@0.23.2560.1373" timestamp="1598544699670" />
-    <state width="1638" height="162" key="GridCell.Tab.0.center" timestamp="1598782903494">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state width="1638" height="135" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598701188054" />
-    <state width="1638" height="342" key="GridCell.Tab.0.center/0.23.1680.983@0.23.1680.983" timestamp="1598698536977" />
-    <state width="1638" height="162" key="GridCell.Tab.0.center/0.23.2560.1371@0.23.2560.1371" timestamp="1598782903494" />
-    <state width="1638" height="65" key="GridCell.Tab.0.center/0.23.2560.1373@0.23.2560.1373" timestamp="1598544699669" />
-    <state width="1638" height="162" key="GridCell.Tab.0.left" timestamp="1598782903494">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state width="1638" height="135" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598701188053" />
-    <state width="1638" height="342" key="GridCell.Tab.0.left/0.23.1680.983@0.23.1680.983" timestamp="1598698536975" />
-    <state width="1638" height="162" key="GridCell.Tab.0.left/0.23.2560.1371@0.23.2560.1371" timestamp="1598782903494" />
-    <state width="1638" height="65" key="GridCell.Tab.0.left/0.23.2560.1373@0.23.2560.1373" timestamp="1598544699669" />
-    <state width="1638" height="162" key="GridCell.Tab.0.right" timestamp="1598782903495">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state width="1638" height="135" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598701188054" />
-    <state width="1638" height="342" key="GridCell.Tab.0.right/0.23.1680.983@0.23.1680.983" timestamp="1598698536980" />
-    <state width="1638" height="162" key="GridCell.Tab.0.right/0.23.2560.1371@0.23.2560.1371" timestamp="1598782903495" />
-    <state width="1638" height="65" key="GridCell.Tab.0.right/0.23.2560.1373@0.23.2560.1373" timestamp="1598544699670" />
-    <state width="1638" height="162" key="GridCell.Tab.1.bottom" timestamp="1598782903496">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state width="1638" height="135" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598701188056" />
-    <state width="1638" height="342" key="GridCell.Tab.1.bottom/0.23.1680.983@0.23.1680.983" timestamp="1598698536989" />
-    <state width="1638" height="162" key="GridCell.Tab.1.bottom/0.23.2560.1371@0.23.2560.1371" timestamp="1598782903496" />
-    <state width="1638" height="65" key="GridCell.Tab.1.bottom/0.23.2560.1373@0.23.2560.1373" timestamp="1598544699671" />
-    <state width="1638" height="162" key="GridCell.Tab.1.center" timestamp="1598782903496">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state width="1638" height="135" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598701188056" />
-    <state width="1638" height="342" key="GridCell.Tab.1.center/0.23.1680.983@0.23.1680.983" timestamp="1598698536985" />
-    <state width="1638" height="162" key="GridCell.Tab.1.center/0.23.2560.1371@0.23.2560.1371" timestamp="1598782903496" />
-    <state width="1638" height="65" key="GridCell.Tab.1.center/0.23.2560.1373@0.23.2560.1373" timestamp="1598544699671" />
-    <state width="1638" height="162" key="GridCell.Tab.1.left" timestamp="1598782903495">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state width="1638" height="135" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598701188055" />
-    <state width="1638" height="342" key="GridCell.Tab.1.left/0.23.1680.983@0.23.1680.983" timestamp="1598698536984" />
-    <state width="1638" height="162" key="GridCell.Tab.1.left/0.23.2560.1371@0.23.2560.1371" timestamp="1598782903495" />
-    <state width="1638" height="65" key="GridCell.Tab.1.left/0.23.2560.1373@0.23.2560.1373" timestamp="1598544699670" />
-    <state width="1638" height="162" key="GridCell.Tab.1.right" timestamp="1598782903496">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state width="1638" height="135" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598701188056" />
-    <state width="1638" height="342" key="GridCell.Tab.1.right/0.23.1680.983@0.23.1680.983" timestamp="1598698536987" />
-    <state width="1638" height="162" key="GridCell.Tab.1.right/0.23.2560.1371@0.23.2560.1371" timestamp="1598782903496" />
-    <state width="1638" height="65" key="GridCell.Tab.1.right/0.23.2560.1373@0.23.2560.1373" timestamp="1598544699671" />
-    <state width="1638" height="701" key="GridCell.Tab.2.bottom" timestamp="1598628820709">
-      <screen x="0" y="23" width="1680" height="983" />
-    </state>
-    <state width="1638" height="701" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598611585369" />
-    <state width="1638" height="701" key="GridCell.Tab.2.bottom/0.23.1680.983@0.23.1680.983" timestamp="1598628820709" />
-    <state width="1638" height="701" key="GridCell.Tab.2.center" timestamp="1598628820708">
-      <screen x="0" y="23" width="1680" height="983" />
-    </state>
-    <state width="1638" height="701" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598611585367" />
-    <state width="1638" height="701" key="GridCell.Tab.2.center/0.23.1680.983@0.23.1680.983" timestamp="1598628820708" />
-    <state width="1638" height="701" key="GridCell.Tab.2.left" timestamp="1598628820708">
-      <screen x="0" y="23" width="1680" height="983" />
-    </state>
-    <state width="1638" height="701" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598611585367" />
-    <state width="1638" height="701" key="GridCell.Tab.2.left/0.23.1680.983@0.23.1680.983" timestamp="1598628820708" />
-    <state width="1638" height="701" key="GridCell.Tab.2.right" timestamp="1598628820708">
-      <screen x="0" y="23" width="1680" height="983" />
-    </state>
-    <state width="1638" height="701" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598611585368" />
-    <state width="1638" height="701" key="GridCell.Tab.2.right/0.23.1680.983@0.23.1680.983" timestamp="1598628820708" />
-    <state x="836" y="254" key="SettingsEditor" timestamp="1598523229108">
-      <screen x="0" y="23" width="2560" height="1373" />
-    </state>
-    <state x="836" y="254" key="SettingsEditor/0.23.2560.1373@0.23.2560.1373" timestamp="1598523229108" />
-    <state x="416" y="172" key="new project wizard" timestamp="1598629135860">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="416" y="172" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1598629135860" />
-    <state x="416" y="184" key="new project wizard/0.23.1680.983@0.23.1680.983" timestamp="1598592731279" />
-    <state x="925" y="248" key="new project wizard/0.23.2560.1373@0.23.2560.1373" timestamp="1598522233058" />
-    <state x="1281" y="810" width="670" height="676" key="search.everywhere.popup" timestamp="1598872088870">
-      <screen x="0" y="23" width="2560" height="1371" />
-    </state>
-    <state x="1281" y="810" width="670" height="676" key="search.everywhere.popup/0.23.2560.1371@0.23.2560.1371" timestamp="1598872088870" />
-    <state x="1209" y="263" width="670" height="676" key="search.everywhere.popup/0.23.2560.1373@0.23.2560.1373" timestamp="1598543528446" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
