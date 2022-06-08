@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e38727a-1deb-48dd-85e7-ed896fc8c640" name="Default Changelist" comment="(feat)初始化本地配置">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="2e38727a-1deb-48dd-85e7-ed896fc8c640" name="Default Changelist" comment="(feat)初始化本地配置" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +295,7 @@
       <workItem from="1598784195217" duration="3226000" />
       <workItem from="1598868768282" duration="6679000" />
       <workItem from="1654654074578" duration="213000" />
-      <workItem from="1654654334716" duration="643000" />
+      <workItem from="1654654334716" duration="691000" />
     </task>
     <task id="LOCAL-00001" summary="(feat)初始化本地配置">
       <created>1654654547770</created>
@@ -320,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654654954746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="(feat)初始化本地配置">
+      <created>1654654985650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654654985650</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
